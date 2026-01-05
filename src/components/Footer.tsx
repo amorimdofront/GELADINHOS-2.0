@@ -11,12 +11,12 @@ export default function Footer() {
                 <IceCream className="w-6 h-6 text-white" />
               </div>
               <div>
-                <h3 className="text-xl font-bold">Geladinhos Amorim</h3>
+                <h3 className="text-xl font-bold">Geladinhos Pega e Lambe! </h3>
                 <p className="text-sm text-gray-400">Sabor que refresca</p>
               </div>
             </div>
             <p className="text-gray-400 leading-relaxed">
-              Proporcionando momentos refrescantes e saborosos desde 2013. Qualidade e tradição em cada geladinho.
+              Proporcionando momentos refrescantes e saborosos. Qualidade e tradição em cada geladinho.
             </p>
           </div>
 
@@ -52,20 +52,20 @@ export default function Footer() {
               <li className="flex items-start">
                 <MapPin className="w-5 h-5 text-cyan-400 mr-3 mt-1 flex-shrink-0" />
                 <span className="text-gray-400">
-                  Rua dos Sabores, 123<br />
-                  Centro - São Paulo, SP
+                  Indisponivel no momento, 123<br />
+                  Bairro da paz - Salvador, BA
                 </span>
               </li>
               <li className="flex items-center">
                 <Phone className="w-5 h-5 text-cyan-400 mr-3 flex-shrink-0" />
                 <a href="tel:+5511999999999" className="text-gray-400 hover:text-cyan-400 transition-colors duration-300">
-                  (11) 99999-9999
+                  (71) 99978-4507
                 </a>
               </li>
               <li className="flex items-center">
                 <Mail className="w-5 h-5 text-cyan-400 mr-3 flex-shrink-0" />
                 <a href="mailto:contato@geladinhosamorim.com.br" className="text-gray-400 hover:text-cyan-400 transition-colors duration-300">
-                  contato@geladinhosamorim.com.br
+                  contato@geladinhospegaelambe.com.br
                 </a>
               </li>
             </ul>
@@ -102,7 +102,7 @@ export default function Footer() {
         <div className="border-t border-gray-700 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center">
             <p className="text-gray-400 text-sm mb-4 md:mb-0">
-              © 2024 Geladinhos Amorim. Todos os direitos reservados.
+              © 2025 Geladinhos Pega e Lambe!. Todos os direitos reservados.
             </p>
             <div className="flex space-x-6 text-sm text-gray-400">
               <a href="#" className="hover:text-cyan-400 transition-colors duration-300">

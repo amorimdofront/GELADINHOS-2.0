@@ -16,7 +16,7 @@ export default function Hero() {
               Geladinhos
             </span>
             <br />
-            <span className="text-gray-800">Artesanais</span>
+            <span className="text-gray-800">Gourmet</span>
           </h2>
           <p className="text-xl md:text-2xl text-gray-700 mb-12 max-w-2xl mx-auto leading-relaxed">
             Sabores únicos e refrescantes, feitos com ingredientes selecionados para o seu prazer

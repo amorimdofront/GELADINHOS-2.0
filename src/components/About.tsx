@@ -32,8 +32,7 @@ export default function About() {
             Nossa História
           </h2>
           <p className="text-xl text-gray-700 max-w-3xl mx-auto leading-relaxed">
-            A Geladinhos Amorim nasceu do sonho de compartilhar momentos refrescantes e saborosos
-            com nossa comunidade. Com mais de 10 anos de tradição, somos referência em qualidade e sabor.
+         A Geladinhos Pega e Lambe! nasceu do sonho de levar momentos refrescantes e saborosos para nossa comunidade. Lançada em dezembro de 2025, a marca surge com o compromisso de oferecer geladinhos de alta qualidade, feitos com carinho, sabor marcante e foco total na satisfação dos nossos clientes.
           </p>
         </div>
 
