@@ -50,7 +50,7 @@ export default function Header() {
             </div>
             <div>
               <h1 className="text-2xl font-bold bg-gradient-to-r from-blue-600 to-cyan-500 bg-clip-text text-transparent">
-                Geladinhos Amorim
+                Geladinhos Pega e Lambe!
               </h1>
               <p className="text-xs text-gray-600">Sabor que refresca</p>
             </div>

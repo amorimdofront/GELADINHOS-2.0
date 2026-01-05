@@ -45,12 +45,12 @@ export default function PromoBanner() {
             Consultar Minhas Compras
           </a>
           <a
-            href="https://wa.me/YOUR_WHATSAPP_NUMBER"
+            href="https://wa.me/71999784507"
             target="_blank"
             rel="noopener noreferrer"
             className="px-8 py-3 bg-green-500 text-white rounded-lg hover:bg-green-600 transition-colors font-bold text-base sm:text-lg shadow-lg"
           >
-            Fazer Pedido no WhatsApp
+            Duvidas no WhatsApp
           </a>
         </div>
       </div>
